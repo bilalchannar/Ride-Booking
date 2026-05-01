@@ -1,0 +1,7 @@
+Ali|Blue Area|4|1
+Ali Driver|F6|4|1
+Faiza Driver|G7|5|1
+John Driver|I8|3|1
+Bilal Rider|F7|4|1
+Ahad Driver|Comsats|4|2
+Bilal|Blue Area|4|1
